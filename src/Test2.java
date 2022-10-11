@@ -5,6 +5,8 @@ public class Test2 {
 		System.out.println("Suresh2");
 		System.out.println("Suresh2");
 		System.out.println("Suresh from Master");
+		System.out.println("Suresh from Master1");
+
 	}
 
 }
